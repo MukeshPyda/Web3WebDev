@@ -1,0 +1,20 @@
+#moralis {
+    text-shadow: 2px 2px 5px darkgray;
+}
+
+.first_para {
+    border: 2px dashed darkblue;
+}
+
+body {
+    background-color: beige;
+}
+
+button {
+    border: none;
+    box-shadow: 3px 3px 7px rgb(172, 111, 111);
+    cursor: pointer;
+}
+[type=text], [type=number], [type=submit], [type=password] {
+    padding: 8px;
+}
