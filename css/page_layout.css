@@ -1,0 +1,30 @@
+.menu-list {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px;
+}
+
+.menu-item {
+    margin: 0px;
+    list-style-type: none;
+    padding: 25px;
+    border: solid black;
+    text-transform: uppercase;
+}
+
+.header-container {
+    display: flex;
+    border: solid black;
+    margin: 0px;
+    background-color: beige;
+}
+
+.logo {
+    width: 30%;
+    padding-left: 25px;
+    margin: auto;
+}
+
+.main-nav {
+    width: 70%;
+}
