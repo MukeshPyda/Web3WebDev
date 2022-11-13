@@ -15,6 +15,12 @@ button {
     box-shadow: 3px 3px 7px rgb(172, 111, 111);
     cursor: pointer;
 }
+
+form {
+    padding: 15px;
+    border: 2px solid black;
+    margin: 30px 5px 20px 3px;
+}
 [type=text], [type=number], [type=submit], [type=password] {
     padding: 8px;
 }
