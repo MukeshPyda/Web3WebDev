@@ -17,21 +17,18 @@ body {
 }
 
 .dashed-border {
-    border: 0px dashed darkblue;
+    border: dashed darkblue;
 }
 
-.d-inline {
-    display: inline;
+.column-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
-.d-block {
-    display: block;
-}
-
-
-.d-inline-block {
-    display: inline-block;
-    width: 50%;
+.column {
+    width: 40%;
 }
 
 button {
