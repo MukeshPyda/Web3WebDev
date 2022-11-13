@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
 #moralis {
     text-shadow: 2px 2px 5px darkgray;
 }
@@ -8,6 +14,24 @@
 
 body {
     background-color: beige;
+}
+
+.dashed-border {
+    border: 0px dashed darkblue;
+}
+
+.d-inline {
+    display: inline;
+}
+
+.d-block {
+    display: block;
+}
+
+
+.d-inline-block {
+    display: inline-block;
+    width: 50%;
 }
 
 button {
