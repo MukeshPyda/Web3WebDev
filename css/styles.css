@@ -44,3 +44,11 @@ form {
 [type=text], [type=number], [type=submit], [type=password] {
     padding: 8px;
 }
+
+#demotext {
+    color: #FFFFFF;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 1px #FFF, 0 0 1px #FFF, 0 0 2px #49ff18, 0 0 3px #49FF18, 0 0 4px #49FF18, 0 0 5px #49FF18, 0 0 7px #49ff18;
+    color: #FFFFFF;
+    background: #232323;
+    }
